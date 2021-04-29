@@ -1,5 +1,5 @@
 //et- slideshow 
-var bestImages = ["images/ontsloh1.jpg", "images/ontslohbook.png", "images/1.png", "images/2.png", "images/3.png"]; 
+var bestImages = ["ontsloh1.jpg", "ontslohbook.png", "1.png", "2.png", "3.png"]; 
 var bestAdvice = document.querySelector(".ontsloh img");
 
 var isPaused = false; //ajillaj bnuu pauselehed urgeljuuleed ajillaj bnu gdgig shalgah
