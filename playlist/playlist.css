@@ -1,0 +1,66 @@
+body {
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #dedede;
+    color: #333;
+    padding: 20px 0 100px 0;
+    margin: 0;
+}
+
+img {
+
+    border-radius:5px;
+    height: 100%;
+}
+
+a{
+    margin: 4%;
+    text-decoration: none;
+    font-weight: bold;
+    color: black
+}
+
+.app-title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.6rem;
+}
+
+.tsugluulga {
+    max-width: 300px;
+    padding: 20px;
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.tsugluulga h4 {
+    margin: 0 0 6px 0;
+}
+
+.playlist-photo {
+    float: left;
+    width: 40%;
+    margin-right: 15px;
+}
+
+.playlist-name {
+    font-size: 1.0rem;
+    font-weight: normal;
+    margin: 0 0 1rem 0;
+}
+
+.branch {
+    font-size: 0.9rem;
+    color: #888;
+    vertical-align: middle;
+}
+
+.footer {
+    font-size: 0.7rem;
+    color: #888;
+    text-align: center;
+    margin: 0;
+}
