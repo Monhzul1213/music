@@ -3,7 +3,7 @@ const adviceData = [
     name: "Чөлөөт цагаараа уншихад тохиромжтой англи хэл дээр унших 10 ном",
     branch: "Хэл сурах",
     PublishedYear: 2021,
-    photo: "images/advice1.png"
+    photo: "advice/advice1.png"
 },
 {
     name: "Хэрэглээний програмууд сурахын давуу тал",
